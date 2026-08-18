@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00111f,100:0066ff&height=180&section=header&text=Dante%20%22Rugal%22%20Viegas&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <h3 align="center">
-  ⚡ Full Stack Developer • 🎨 eSports Designer • 🎮 Pokémon Collector
+  ⚡ Full Stack Developer • 🎨 Graphic Designer • 🎮 Pokémon Collector
 </h3>
 
 <p align="center">
@@ -17,7 +17,7 @@ nickname: Rugal
 roles:
   - Full Stack Developer
   - Graphic Designer
-  - eSports Designer
+  - Gamer
 
 focus:
   - Web Applications
