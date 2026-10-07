@@ -87,6 +87,7 @@ Contato: dante.viegas2@gmail.com
 <div align="center">
 
 <a href="https://www.canva.com/design/DAGewiRAqoE/rVFtc3uPNcxe6rkoleKJ0g/view?utm_content=DAGewiRAqoE&utm_campaign=designshare&utm_medium=link&utm_source=viewer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="(https://www.roblox.com/pt/users/10963408850/profile)">
