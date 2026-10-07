@@ -86,8 +86,7 @@ Contato: dante.viegas2@gmail.com
 
 <div align="center">
 
-<a href="[https://www.instagram.com/dante.bat/](https://www.canva.com/design/DAGewiRAqoE/rVFtc3uPNcxe6rkoleKJ0g/view?utm_content=DAGewiRAqoE&utm_campaign=designshare&utm_medium=link&utm_source=viewer&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAadhhhKYEHgj9fek7zrNCa_FQWy43e6Dqds-cT_uv2daNTy5WIMi9mYN7q7klg_aem_bp8vx4skwrt8g3fFdCsrxg)">
-<img src="https://img.shields.io/badge/Portfolio-0066FF?style=for-the-badge&logo=vercel&logoColor=white">
+<a href="https://www.canva.com/design/DAGewiRAqoE/rVFtc3uPNcxe6rkoleKJ0g/view?utm_content=DAGewiRAqoE&utm_campaign=designshare&utm_medium=link&utm_source=viewer">
 </a>
 
 <a href="(https://www.roblox.com/pt/users/10963408850/profile)">
