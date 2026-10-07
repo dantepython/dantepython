@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00111f,100:0066ff&height=180&section=header&text=Dante%20%22Rugal%22%20Viegas&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <h3 align="center">
-  ⚡ Full Stack Developer • 🎨 Graphic Designer • 🎮 Pokémon Collector
+  desenvolvedor full stack • designer gráfico • entusiasta da arte audiovisual • fã da belíssima arte suave
 </h3>
 
 <p align="center">
@@ -12,34 +12,31 @@
 ## 🧬 ABOUT ME
 
 ```yaml
-name: Dante Viegas
-nickname: Rugal
-roles:
-  - Full Stack Developer
-  - Graphic Designer
-  - Gamer
+nome: Dante Viegas
+aka: Rugal
 
-focus:
+
+experiência em:
   - Web Applications
   - UI/UX
-  - Automation
-  - Gaming Projects
+  - Automação
+  - Vibecoding 
+  - game develop
 
-motto:
   "Vini, vidi, vici."
 ```
 
 Sou um desenvolvedor focado em criar experiências digitais,
-misturando **código, design e criatividade**.
+misturando **código, design e criatividade**. Principalmente pela
+experiência com o design, foco no Frontend na ala de UI/UX
 
 Tenho experiência com desenvolvimento web, APIs,
 bancos de dados e projetos voltados para gaming/eSports.
 
 Sou designer há 6 anos, meu link de design está nos links abaixo.
 Instagram: @rugaldesign
+Contato: dante.viegas2@gmail.com
 
-Sempre aprendendo.
-Sempre construindo.
 
 
 ---
@@ -55,34 +52,17 @@ Sempre construindo.
 
 ---
 
-# 🚀 CURRENT PROJECTS
+# 🚀 PROJETOS 
 
-| Projeto | Descrição | Status |
+| Projeto | Descrição | 
 |-|-|-|
-| 📚 **EXPERIENSSA** | Plataforma de acompanhamento SSA | 🟦 90% |
-| 🐉 **Pokémon Project** | Pokédex + Team Builder | 🟪 70% |
-| 🎯 **Killfeed Tool** | Gerador de Killfeed Valorant | 🟥 60% |
-| 🌊 **Reef Esports** | Marca e projetos competitivos | 🟦 80% |
+| 📚 **EXPERIENSSA** | Plataforma de acompanhamento de dados e estatísticas complexas que mantém acompanhamento constante do meu progresso particular em estudos para o vestibular.
+| 🎯 **Killfeed Tool** | Gerador de Killfeed Valorant
+| ⏱️ **Time Machine** | Site similar ao VSCO, onde o usuário pode guardar e partilhar suas memórias em uma linha do tempo.
+
 
 
 ---
-
-# 🎮 CREATIVE SIDE
-
-Além de programação, trabalho com:
-
-```
-🎨 Logos
-🎬 Social Media
-🏆 eSports Branding
-🖥️ Stream Designs
-🔥 Visual Identity
-```
-
-Meu objetivo:
-
-> Unir tecnologia e criatividade para criar projetos memoráveis.
-
 
 ---
 
@@ -161,3 +141,5 @@ Meu objetivo:
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00111f&height=120&section=footer"/>
+
+# ❗ "Kakugo no nai mono ni, shōri no kenri wa nai." - Rugal Bernstein
